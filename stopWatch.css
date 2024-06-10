@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-2 {
+    background-color: #F0F0F0;
+    height: 120vh;
+    width: 100%;
+    overflow: auto;
+}
+
+
+.heading {
+    font-family: "Bree Serif";
+    font-size: 34px;
+    color: #ff0f000;
+}
+
+.stopwatch {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.main {
+    color: blue;
+}
+
+.sec {
+    color: red;
+}
+
+#display {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 1.2em;
+    margin: 5px;
+    padding: 10px 20px;
+}
+
+#elapsedTimes {
+    margin-top: 20px;
+}
